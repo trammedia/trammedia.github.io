@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+date: 2014-04-30 16:16:01 -0600
 ---
 
 Well. Finally got around to putting this old website together.
